@@ -1,6 +1,6 @@
 
 
-h1 {
+head {
 	<link rel="stylesheet" href="index.css">
 	text-align:center;
 	font-colour:rgb(102, 255, 194)
@@ -12,7 +12,56 @@ h1 {
 	line-height: 1;
 }
 
+h1 {
 	
+	text-align:center;
+	font-colour:rgb(102, 255, 194)
+	font-size:24px;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 1;
+}
+	
+ul{ 
+
+	
+	text-align:center;
+	font-colour:rgb(102, 255, 194)
+	font-size:24px;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 1;
+	
+	}
+h2{ 
+	
+	text-align:center;
+	font-colour:rgb(102, 255, 194)
+	font-size:24px;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 1;
+	
+	}
+h3{ 
+	
+	text-align:center;
+	font-colour:rgb(102, 255, 194)
+	font-size:24px;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 1;
+	
+	}
+
 main {
 		background-color:#ff8fc0;
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);

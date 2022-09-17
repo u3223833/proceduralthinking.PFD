@@ -1,5 +1,13 @@
 
-h1 {
+main {
+	background-color:#ff8fc0;
+	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
+	border-width: 3px;
+	border-color: #7dc0f7;
+	border-style: solid;
+}
+
+head {
 	text-align:center;
 	font-size:24px;
 	font-weight:normal;
@@ -11,7 +19,6 @@ h1 {
 	}
 
 h2 {
-	text-align:center;
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
@@ -21,7 +28,7 @@ h2 {
 }
 	
 h3 {
-	text-align:center;
+	
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
@@ -30,12 +37,6 @@ h3 {
 	line-height: 1;
 }
 
-main {
-	background-color:#ff8fc0;
-	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
-	border-width: 3px;
-	border-color: #7dc0f7;
-	border-style: solid;
-}
+
 
 		

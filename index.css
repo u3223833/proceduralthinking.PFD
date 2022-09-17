@@ -11,19 +11,19 @@ main {
 head {
 	<link rel="stylesheet" href="index.css">
 	text-align:center;
-	font-colour:rgb(102, 255, 194)
 	font-display:24px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
 	padding:1px;
 	line-height: 2;
+	color:rgb(102, 255, 194); 
 	
 }
 
 h1 {
 	
-	font-display:rgb(255, 51, 204)
+	color:rgb(102, 255, 194); 
 	font-size:24px;
 	font-style: italic,bold;
 	font-weight:normal;
@@ -36,7 +36,7 @@ h1 {
 	
 ul{ 
 
-	font-colour:rgb(102, 255, 194)
+	color:rgb(102, 255, 194); 
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
@@ -48,7 +48,7 @@ ul{
 h2{ 
 	
 
-	font-colour:rgb(102, 255, 194)
+	color:rgb(102, 255, 194); 
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
@@ -60,7 +60,7 @@ h2{
 h3{ 
 	
 
-	font-colour:rgb(102, 255, 194)
+	color:rgb(102, 255, 194); 
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;

@@ -1,40 +1,42 @@
 
 main {
-		background-color:#ff8fc0;
-		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
-	        border-width: 1px;
-		border-color: #7dc0f7;
-		border-style: solid;
+	background-color:#ff8fc0;
+	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
+		border-width: 1px;
+	border-color: #7dc0f7;
+	border-style: solid;
 }
 
 head {
-	text-align:center;
-	font-size:24px;
-	font-weight:normal;
-	margin:1px;
-	overflow:visible;
-	padding:1px;
-	line-height: 1;
+text-align:center;
+font-size:24px;
+font-weight:normal;
+margin:1px;
+overflow:visible;
+padding:1px;
+line-height: 1;
+}
 
-	}
+
 
 h2 {
-	font-size:24px;
-	font-weight:normal;
-	margin:1px;
-	overflow:visible;
-	padding:1px;
-	line-height: 1;
+font-size:24px;
+font-weight:normal;
+margin:1px;
+overflow:visible;
+padding:1px;
+line-height: 1;
 }
-	
+
 h3 {
-	
-	font-size:24px;
-	font-weight:normal;
-	margin:1px;
-	overflow:visible;
-	padding:1px;
-	line-height: 1;
+
+font-size:24px;
+font-weight:normal;
+margin:1px;
+overflow:visible;
+padding:1px;
+line-height: 1;
+
 }
 
 

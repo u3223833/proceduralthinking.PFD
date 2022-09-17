@@ -1,55 +1,28 @@
 {
-	margin: 0;
-	padding: 0;
-	border: 0;
+	margin: 1;
+	padding: 1;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
 
-/* 
-    If you want to style the 500x500 canvas you sketch is in, add
-    CSS to the main tag, below.  You might want to add a border, 
-    change alignment or add padding for example.
-*/
+body {		
+h1 {
+	font-size:24px;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	text-align:center;
+	line-height: 1;
+
+	}}
+
 main {
 		background-color:#ff8fc0;
-			background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
-		  border-width: 1px;
-		  border-color: #7dc0f7;
-		  border-style: solid;
+		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
+		border-width: 3px;
+		border-color: #7dc0f7;
+		border-style: solid;
 }
-		
-h1 {
-			font-size:24px;
-			font-weight:normal;
-			margin:0px;
-			overflow:visible;
-			padding:0px;
-			text-align:center;
-		 
-}
+
 		

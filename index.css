@@ -12,7 +12,7 @@ head {
 	<link rel="stylesheet" href="index.css">
 	text-align:center;
 	font-colour:rgb(102, 255, 194)
-	font-size:24px;
+	font-display:24px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
@@ -23,7 +23,7 @@ head {
 
 h1 {
 	
-	font-colour:rgb(255, 51, 204)
+	font-display:rgb(255, 51, 204)
 	font-size:24px;
 	font-style: italic,bold;
 	font-weight:normal;

@@ -25,7 +25,7 @@ head {
 h1 {
 	text-align:center;
 	color:#ccff99); 
-	font-size:24px;
+	font-size:30px;
 	font-style: italic,bold;
 	font-weight:normal;
 	margin:1px;
@@ -50,7 +50,7 @@ h2 {
 	
 
 	color:#ccff99; 
-	font-size:24px;
+	font-size:30px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
@@ -60,9 +60,8 @@ h2 {
 	}
 h3 { 
 	
-
 	color:#ccff99); 
-	font-size:24px;
+	font-size:30px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;

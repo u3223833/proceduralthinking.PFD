@@ -1,9 +1,9 @@
 body {
 		
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
- 	        border-width: 3px;
+ 	        border-width: 4px;
  		border-color: rgb(255, 255, 255);
- 		border-style: solid;
+ 		border-style: dotted;
 }
 
 	
@@ -36,9 +36,9 @@ h1 {
 }
 	
 ul { 
-
 	color:#ccff99; 
 	font-size:24px;
+	text-style: itallic;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
@@ -47,8 +47,6 @@ ul {
 	
 	}
 h2 { 
-	
-
 	color:#ccff99; 
 	font-size:30px;
 	font-weight:normal;

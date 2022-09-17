@@ -3,16 +3,15 @@ main {
  	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
  	border-width: 20px;
  	border-color:rgb(204, 153, 255);
- 	border-style: solid;
+	border-style: solid;
+}
 	
 body {
-	background-color:#ff8fc0;
- 	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
  	border-width: 20px;
  	border-color:rgb(204, 153, 255);
  	border-style: solid;
+	}
 
-}
 
 head {
 	<link rel="stylesheet" href="index.css">

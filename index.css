@@ -1,15 +1,8 @@
 body {
   
 background-color:#E4E4E4;
-    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-gradient(
-        linear,
-        left top,
-        left bottom,
-        color-stop(0, #A7A7A7),
-        color-stop(0.51, #E4E4E4
+    background: linear-gradient(90deg, rgba(255,160,253,1) 0%, rgba(248,111,209,1) 50%, rgba(255,174,188,1) 100%);
+  
     );
 
 h1 {

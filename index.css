@@ -1,11 +1,12 @@
-main{
+body {
 	background-color:#ff8fc0;
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
  	        border-width: 1px;
  		border-color: #7dc0f7;
  		border-style: solid;
-
+		font-colour:rgb(102, 255, 194)
 }
+
 head {
 	<link rel="stylesheet" href="index.css">
 	text-align:center;
@@ -15,19 +16,18 @@ head {
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 4;
+	line-height: 2;
 }
 
 h1 {
 	
-	text-align:center;
 	font-colour:rgb(102, 255, 194)
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 4;
+	line-height: 3;
 }
 	
 ul{ 
@@ -38,7 +38,7 @@ ul{
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 4;
+	line-height: 3;
 	
 	}
 h2{ 
@@ -50,7 +50,7 @@ h2{
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 4;
+	line-height: 3;
 	
 	}
 h3{ 

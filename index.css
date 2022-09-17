@@ -19,52 +19,55 @@ head {
 	padding:1px;
 	line-height: 2;
 	color:#ccff99; 
+	font-style: bold;
 	
 }
 
 h1 {
 	text-align:center;
-	color:#ccff99); 
+	color:#000000; 
 	font-size:30px;
-	font-style: italic,bold;
+	font-style: bold;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 3;
+	line-height: 2;
 	
 }
 	
 ul { 
-	color:#ccff99; 
+	color:#000000; 
 	font-size:24px;
 	text-style: itallic;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 3;
+	line-height: 2;
 	
 	}
 h2 { 
-	color:#ccff99; 
+	color:#000000; 
 	font-size:30px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 3;
+	line-height: 2;
+	font-style: bold;
 	
 	}
 h3 { 
 	
-	color:#ccff99); 
+	color:#000000); 
 	font-size:30px;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
 	padding:1px;
-	line-height: 4;
+	line-height: 2;
+	font-style: bold;
 
 	}
 

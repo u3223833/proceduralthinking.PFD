@@ -1,18 +1,14 @@
 
 main {
-	background-color:#ff8fc0;
-	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
-		border-width: 1px;
-	border-color: #7dc0f7;
-	border-style: solid;
+		background-color:#ff8fc0;
+ 		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
+ 	        border-width: 1px;
+ 		border-color: #7dc0f7;
+ 		border-style: solid;
 }
 
-h1 {
-	background-color:#ff8fc0;
-	background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
-		border-width: 1px;
-	border-color: #7dc0f7;
-	border-style: solid;
+body {
+	
 	
 	text-align:center;
 	font-colour:rgb(102, 255, 194)

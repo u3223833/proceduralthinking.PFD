@@ -23,6 +23,7 @@ h1 {
 	
 	font-colour:rgb(102, 255, 194)
 	font-size:24px;
+	font-style: italic,bold;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;

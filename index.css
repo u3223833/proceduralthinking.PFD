@@ -1,14 +1,14 @@
 body {
-		background-color:#ff8fc0;
+		
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
- 	        border-width: 1px;
+ 	        border-width: 3px;
  		border-color: rgb(255, 255, 255);
  		border-style: solid;
 }
 main {
-	background-color:#ff8fc0;
+	
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
- 	        border-width: 1px;
+ 	        border-width: 3px;
  		border-color: rgb(255, 255, 255);
  		border-style: solid;
 }
@@ -29,7 +29,7 @@ head {
 }
 
 h1 {
-	
+	text-align:center;
 	color:#ccff99); 
 	font-size:24px;
 	font-style: italic,bold;

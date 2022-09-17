@@ -1,10 +1,7 @@
 main {
 	background-color:#ff8fc0;
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
- 	        border-width: 1px;
- 		border-color: #7dc0f7;
- 		border-style: solid;
-		font-colour:rgb(102, 255, 194)
+ 	      
 }
 
 head {
@@ -17,11 +14,14 @@ head {
 	overflow:visible;
 	padding:1px;
 	line-height: 2;
+	border-width: 5px;
+ 	border-color:rgb(204, 153, 255);
+ 	border-style: solid;
 }
 
 h1 {
 	
-	font-colour:rgb(102, 255, 194)
+	font-colour:rgb(255, 51, 204)
 	font-size:24px;
 	font-style: italic,bold;
 	font-weight:normal;
@@ -29,6 +29,9 @@ h1 {
 	overflow:visible;
 	padding:1px;
 	line-height: 3;
+	border-width: 5px;
+ 	border-color: rgb(255, 51, 204);
+ 	border-style: solid;
 }
 	
 ul{ 
@@ -52,7 +55,9 @@ h2{
 	overflow:visible;
 	padding:1px;
 	line-height: 3;
-	
+	border-width: 5px;
+ 		border-color: rgb(102, 255, 102);
+ 		border-style: solid;
 	}
 h3{ 
 	
@@ -64,7 +69,9 @@ h3{
 	overflow:visible;
 	padding:1px;
 	line-height: 4;
-	
+	border-width: 5px;
+ 		border-color: rgb(51, 204, 255);
+ 		border-style: solid;
 	}
 
 

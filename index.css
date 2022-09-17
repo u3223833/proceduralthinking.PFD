@@ -1,5 +1,12 @@
-main {
+body {
 		background-color:#ff8fc0;
+ 		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
+ 	        border-width: 1px;
+ 		border-color: rgb(255, 255, 255);
+ 		border-style: solid;
+}
+main {
+	background-color:#ff8fc0;
  		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
  	        border-width: 1px;
  		border-color: rgb(255, 255, 255);
@@ -17,13 +24,13 @@ head {
 	overflow:visible;
 	padding:1px;
 	line-height: 2;
-	color:rgb(102, 255, 194); 
+	color:#ccff99; 
 	
 }
 
 h1 {
 	
-	color:rgb(102, 255, 194); 
+	color:#ccff99); 
 	font-size:24px;
 	font-style: italic,bold;
 	font-weight:normal;
@@ -34,9 +41,9 @@ h1 {
 	
 }
 	
-ul{ 
+ul { 
 
-	color:rgb(102, 255, 194); 
+	color:#ccff99; 
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
@@ -45,10 +52,10 @@ ul{
 	line-height: 3;
 	
 	}
-h2{ 
+h2 { 
 	
 
-	color:rgb(102, 255, 194); 
+	color:#ccff99; 
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;
@@ -57,10 +64,10 @@ h2{
 	line-height: 3;
 	
 	}
-h3{ 
+h3 { 
 	
 
-	color:rgb(102, 255, 194); 
+	color:#ccff99); 
 	font-size:24px;
 	font-weight:normal;
 	margin:1px;

@@ -7,9 +7,8 @@ main {
  		border-style: solid;
 }
 
-body {
-	
-	
+h1 {
+	<link rel="stylesheet" href="index.css">
 	text-align:center;
 	font-colour:rgb(102, 255, 194)
 	font-size:24px;

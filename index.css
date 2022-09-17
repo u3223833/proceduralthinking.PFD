@@ -5,13 +5,7 @@ body {
  		border-color: rgb(255, 255, 255);
  		border-style: solid;
 }
-main {
-	
- 		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
- 	        border-width: 3px;
- 		border-color: rgb(255, 255, 255);
- 		border-style: solid;
-}
+
 	
 
 
@@ -77,8 +71,14 @@ h3 {
 
 	}
 
+main {
+	
+ 		background: linear-gradient(90deg, rgb(249, 176, 247) 0%, rgb(255, 87, 207) 50%, rgba(255,174,188,1) 100%);
+ 	        border-width: 3px;
+ 		border-color: rgb(255, 255, 255);
+ 		border-style: solid;
 
-
+}
 
 
 
